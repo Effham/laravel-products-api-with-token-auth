@@ -44,6 +44,7 @@ class AuthController extends Controller
 
             ]
             );
+            //whatup
             //email check
             $user = User::where('email',$fields['email'])->first();
             //check passowrd
