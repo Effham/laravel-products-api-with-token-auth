@@ -1,3 +1,8 @@
+#RESTFUL API IN LARAVEL
+This a restful laravel api with laravel sanctum using token authentication in which only users can use protected routes to edit delete and insert products. Api is easy to be modified 
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
